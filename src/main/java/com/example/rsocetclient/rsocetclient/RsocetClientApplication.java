@@ -8,4 +8,6 @@ public class RsocetClientApplication {
     public static void main(String[] args) {
         SpringApplication.run(RsocetClientApplication.class, args);
     }
+    
+    //test ala ma kota
 }
